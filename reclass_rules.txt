@@ -1,0 +1,20 @@
+11110 thru 14000 = 1 Built Land
+21100 = 2 Arable Land
+21200 = 1 Built Land
+22100 thru 23300 = 3 Crops
+23400 thru 33200 = 4 Forest
+34000 35000 =  5 Scrub
+41000 42100 42200 = 6 Grassland
+51000 53000 61100 = 5 Scrub
+61200 62112 63110 63120 = 7 Rocks
+62111 62120 = 8 Dunes
+62200 = 9 River Bank
+71100 72100 = 10 Marshes
+72300 = 11 Intertidal Flats
+81100 81200 82100 82300 = 12 Water
+82200 = 13 Reservoirs
+82400 = 1 Built Land
+83100 thru 84200 = 12 Water
+36000 63200 = 14 Damaged Area
+0 = NULL
+

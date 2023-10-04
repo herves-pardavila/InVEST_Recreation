@@ -1,0 +1,72 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <GDALRasterAttributeTable tableType="thematic">
+      <FieldDefn index="0">
+        <Name>value</Name>
+        <Type>0</Type>
+        <Usage>5</Usage>
+      </FieldDefn>
+      <FieldDefn index="1">
+        <Name>label</Name>
+        <Type>2</Type>
+        <Usage>2</Usage>
+      </FieldDefn>
+      <Row index="0">
+        <F>1</F>
+        <F>Built Land</F>
+      </Row>
+      <Row index="1">
+        <F>2</F>
+        <F>Arable Land</F>
+      </Row>
+      <Row index="2">
+        <F>3</F>
+        <F>Crops</F>
+      </Row>
+      <Row index="3">
+        <F>4</F>
+        <F>Forest</F>
+      </Row>
+      <Row index="4">
+        <F>5</F>
+        <F>Scrub</F>
+      </Row>
+      <Row index="5">
+        <F>6</F>
+        <F>Grassland</F>
+      </Row>
+      <Row index="6">
+        <F>7</F>
+        <F>Rocks</F>
+      </Row>
+      <Row index="7">
+        <F>8</F>
+        <F>Dunes</F>
+      </Row>
+      <Row index="8">
+        <F>9</F>
+        <F>River Bank</F>
+      </Row>
+      <Row index="9">
+        <F>10</F>
+        <F>Marshes</F>
+      </Row>
+      <Row index="10">
+        <F>11</F>
+        <F>Intertidal Flats</F>
+      </Row>
+      <Row index="11">
+        <F>12</F>
+        <F>Water</F>
+      </Row>
+      <Row index="12">
+        <F>13</F>
+        <F>Reservoirs</F>
+      </Row>
+      <Row index="13">
+        <F>14</F>
+        <F>Damaged Area</F>
+      </Row>
+    </GDALRasterAttributeTable>
+  </PAMRasterBand>
+</PAMDataset>
